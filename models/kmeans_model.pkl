@@ -1,0 +1,5 @@
+The file models/kmeans_model.pkl is a binary file that contains a serialized KMeans model. As such, it cannot be represented in text format. You will need to create this file by training a KMeans model in your Python environment and then saving it using joblib or a similar library.
+
+Here is a comment indicating that the file is intentionally left blank:
+
+# This file is intentionally left blank. Please create the KMeans model and save it using joblib.
